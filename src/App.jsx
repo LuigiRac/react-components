@@ -1,14 +1,14 @@
 import './index.css'
-import HeaderComponents from "./components/HeaderComponents.jsx";
-import MainComponents from "./components/MainComponents.jsx";
+import HeaderContent from "./components/HeaderContent.jsx";
+import MainContent from "./components/MainContent.jsx";
 
 
 function App() {
 
   return (
     <>
-      <HeaderComponents />
-      <MainComponents />
+      <HeaderContent />
+      <MainContent />
     </>
   )
 }

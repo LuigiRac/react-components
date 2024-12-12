@@ -1,7 +1,7 @@
 
 
 
-function MainComponents() {
+function MainContent() {
 
     const image = "/img/polmoni.png"
 
@@ -21,4 +21,4 @@ function MainComponents() {
 
 
 
-export default MainComponents
+export default MainContent

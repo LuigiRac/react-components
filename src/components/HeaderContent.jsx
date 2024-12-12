@@ -1,4 +1,4 @@
-function HeaderComponents() {
+function HeaderContent() {
     const title = "Il mio blog";
 
     return (
@@ -10,4 +10,4 @@ function HeaderComponents() {
 
 
 
-export default HeaderComponents
+export default HeaderContent
